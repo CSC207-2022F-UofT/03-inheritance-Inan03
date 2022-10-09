@@ -134,7 +134,6 @@ public abstract class Bag {
         // TODO: Implement this method.
 
     }
-
     /**
      * Return the details of this Bag.
      * This method requires you to have created the private

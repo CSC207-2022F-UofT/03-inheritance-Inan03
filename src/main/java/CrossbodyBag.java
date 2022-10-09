@@ -39,7 +39,6 @@ public class CrossbodyBag extends Bag{
  *           1. a String for the color
  *           2. an int for the capacity
  *           3. an int for the number of straps
- *
  *       CrossbodyBag should also have a getter method called getNumberOfStraps
  *       and it should implement the enhance method.
  *
